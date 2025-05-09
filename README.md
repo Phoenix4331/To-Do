@@ -1,3 +1,5 @@
+![Image](https://raw.githubusercontent.com/Phoenix4331/To-Do/refs/heads/main/To%20Do%20Banner.png)
+
 # To Do App
 
 **Stan na 07.05.2025 dla wersji To Do 2.20.1**
