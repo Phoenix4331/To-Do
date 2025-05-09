@@ -2,6 +2,8 @@
 
 **Stan na 07.05.2025 dla wersji To Do 2.20.1**
 
+**Przewidywana data publikacji:** Lipiec 2025
+
 ## Spis treści:
 
 1. [Autor](#autor)
