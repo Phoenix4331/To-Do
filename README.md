@@ -2,7 +2,7 @@
 
 # To Do App
 
-**Stan na 07.05.2025 dla wersji To Do 2.20.1**
+**Stan na 09.05.2025 dla wersji To Do 2.20.1**
 
 **Przewidywana data publikacji aplikacji:** Lipiec 2025
 
